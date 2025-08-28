@@ -30,10 +30,9 @@ The application operates in two main phases:
 
 ## 🛠 Technology Stack
 - **Language**: C++  
-- **Compiler**: Visual Studio 2010 (tested)  
+- **Compiler**: Visual Studio 2010   
 - **Core Algorithms**:  
   - Linear Predictive Coding (LPC)  
   - Levinson–Durbin Recursion  
-    
-
---
+  - K-Means / LBG (for Vector Quantization)  
+  - HMM training  
